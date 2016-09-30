@@ -1,0 +1,24 @@
+.button-success {
+    background: rgb(28, 184, 65);
+    margin-left: 40%;
+}
+
+.button-error {
+    background: rgb(202, 60, 60);
+}
+
+.button-warning {
+    background: rgb(223, 117, 20);
+}
+.text, .count{
+    font-family: Aparajita, sans-serif;
+    font-size: 50px;
+    font-weight: 900;
+}
+.count{
+    margin-top: 20%;
+    margin-left: 40%;
+}
+body{
+    background: url("http://www.motto.net.ua/pic/201209/2560x1600/motto.net.ua-18361.jpg");
+}

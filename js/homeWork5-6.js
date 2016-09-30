@@ -2,14 +2,6 @@ start.addEventListener("click",start_click);
 pause.addEventListener("click",pause_click);
 stp.addEventListener("click",stp_click);
 
-
-
-var obj={
-    s: "start",
-    p: "pause",
-    st: "stop"
-}
-
 var count=0, timerId, go=false;
 
 function start_click(){
